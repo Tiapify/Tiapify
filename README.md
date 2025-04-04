@@ -1,3 +1,5 @@
+## About Me:
+Hi, I'm Tiapify! I'm developing tools for the mobile game Star Wars: Galaxy of Heroes.
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Tiapify) 
